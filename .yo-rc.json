@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "file-upload",
+    "libraryId": "b1e4b1f6-3698-465f-9791-9ffcb117e809",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "FileUpload",
+    "solutionShortDescription": "FileUpload description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
